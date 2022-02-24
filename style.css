@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Ubuntu;
+    background-color: whitesmoke
+}
+
+.container{
+    display: flex;
+  flex-direction: column;
+  align-items:center ;
+  justify-content: center;
+  margin: 6rem;
+  
+}
+.cont{
+    /* border: 2px solid black; */
+    background-color: rgb(17, 17, 17);
+    border-radius: 2rem;
+    /* width: 47vw;
+    height: 47vh; */
+    width: 23rem;
+    height: 23rem;
+
+
+}
+h1{
+  
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-top: 1.02rem;
+   
+    
+   
+}
+
+table{
+    margin: auto;
+   }
+
+td{
+    padding: 0.2rem;
+}
+
+
+input{
+    margin-left: 1.5rem;
+    margin-top: 2.5rem;
+    font-size: 1.5rem;
+    padding: 0.12rem;
+    width:20rem;
+    border-radius: 1rem;
+    text-align: right;
+    border: 2px solid rgb(163, 149, 149);
+   
+}
+#screen{
+    margin-top: 1rem;
+    margin-bottom: 0.3rem;
+}
+
+button{
+    width: 4.5rem;
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    background-color: rgb(137, 139, 139);
+    border: hidden;
+    border-radius: 0.2rem;
+    
+}
