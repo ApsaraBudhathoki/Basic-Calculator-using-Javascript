@@ -19,3 +19,10 @@ Image 1
   <img src = "https://github.com/ApsaraBudhathoki/Basic-Calculator-using-Javascript/blob/main/Output.png">
   
   </div>
+
+### Clone this project
+
+```
+git clone git@github.com:ApsaraBudhathoki/Basic-Calculator-using-Javascript.git
+
+```
